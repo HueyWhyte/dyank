@@ -1,0 +1,7 @@
+.Booking {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  justify-content: center;
+  min-height: calc(100vh - 45px);
+}
