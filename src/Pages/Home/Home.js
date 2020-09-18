@@ -208,7 +208,7 @@ export default class Home extends Component {
               </p>
 
               <Link
-                exact
+                exact="true"
                 to="/services"
                 style={{
                   backgroundColor: "white",

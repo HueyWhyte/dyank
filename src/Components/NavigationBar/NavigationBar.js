@@ -22,7 +22,11 @@ export default class NavigationBar extends Component {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+        <div
+          style={{ backgroundColor: "white" }}
+          className="collapse navbar-collapse"
+          id="navbarSupportedContent"
+        >
           <ul
             style={{
               width: "60%",
